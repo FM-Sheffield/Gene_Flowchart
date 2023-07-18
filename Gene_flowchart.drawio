@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-03-08T09:45:11.028Z" agent="5.0 (X11)" etag="JN31kyuMslnBxMVsoDHG" version="21.0.2" type="github">
+<mxfile host="app.diagrams.net" modified="2023-07-18T13:38:42.841Z" agent="Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:91.0) Gecko/20100101 Firefox/91.0" etag="t0fePcxVkmapfRII5kf3" version="21.6.2" type="github">
   <diagram name="Page-1" id="ZjWq9D-UZQMC2w3Mq_BJ">
-    <mxGraphModel dx="1432" dy="783" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1434" dy="861" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -70,7 +70,7 @@
         <mxCell id="-MUfhITEFtD4r3xJnVdF-20" value="file" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" vertex="1">
           <mxGeometry x="536" y="80" width="30" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="-MUfhITEFtD4r3xJnVdF-21" value="&lt;div&gt;This is a one path, global, no collision flowchart of the gene code (cuth branch)&lt;br&gt;&lt;/div&gt;&lt;div&gt;as of Feb. 2023&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
+        <mxCell id="-MUfhITEFtD4r3xJnVdF-21" value="&lt;div&gt;This is a one path, global, no collision flowchart of the gene code (cuth branch)&lt;br&gt;&lt;/div&gt;&lt;div&gt;as of Feb. 2023. Outdated&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
           <mxGeometry x="536" y="3" width="240" height="67" as="geometry" />
         </mxCell>
         <mxCell id="-MUfhITEFtD4r3xJnVdF-22" value="rungene()" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
@@ -349,22 +349,22 @@
             <mxGeometry width="167.89" height="110" as="geometry" />
           </mxCell>
         </UserObject>
-        <mxCell id="HKiTzjSyZlS2FczsTqKb-2" value="allocate_emfields()" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="HKiTzjSyZlS2FczsTqKb-2" value="allocate_emfields()" style="text;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="340" y="397" width="102.5" height="18.5" as="geometry" />
         </mxCell>
-        <mxCell id="HKiTzjSyZlS2FczsTqKb-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="HKiTzjSyZlS2FczsTqKb-5" target="HKiTzjSyZlS2FczsTqKb-6">
+        <mxCell id="HKiTzjSyZlS2FczsTqKb-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="HKiTzjSyZlS2FczsTqKb-5" target="HKiTzjSyZlS2FczsTqKb-6" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="HKiTzjSyZlS2FczsTqKb-5" value="check_field_solver()" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="HKiTzjSyZlS2FczsTqKb-5" value="check_field_solver()" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="696.56" y="413.5" width="109.37" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="HKiTzjSyZlS2FczsTqKb-6" value="n_fields" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
+        <mxCell id="HKiTzjSyZlS2FczsTqKb-6" value="n_fields" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" parent="1" vertex="1">
           <mxGeometry x="724.99" y="440" width="52.51" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="HKiTzjSyZlS2FczsTqKb-8" value="Note: the keyword &#39;moments&#39; is sometimes used for the velocity space moments and sometimes used as the RHS of the eq. Be careful!" style="rounded=1;whiteSpace=wrap;html=1;sketch=0;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+        <mxCell id="HKiTzjSyZlS2FczsTqKb-8" value="Note: the keyword &#39;moments&#39; is sometimes used for the velocity space moments and sometimes used as the RHS of the eq. Be careful!" style="rounded=1;whiteSpace=wrap;html=1;sketch=0;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
           <mxGeometry x="609" y="1100" width="211" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="HKiTzjSyZlS2FczsTqKb-9" value="moments are calculated" style="rounded=1;whiteSpace=wrap;html=1;sketch=0;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+        <mxCell id="HKiTzjSyZlS2FczsTqKb-9" value="moments are calculated" style="rounded=1;whiteSpace=wrap;html=1;sketch=0;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
           <mxGeometry x="474" y="390.5" width="135" height="25" as="geometry" />
         </mxCell>
       </root>
